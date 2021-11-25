@@ -1,0 +1,31 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    width: 100%;
+    padding: 10px;
+}
+
+nav h2 {
+    color: plum;
+}
+
+main {
+    margin: 0 20%;
+}
+
+main p {
+    font-size: 1.2em;
+}
+
+main h2 {
+    color: purple;
+}
+main h3 {
+    color: purple;
+}
